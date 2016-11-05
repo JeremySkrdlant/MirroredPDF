@@ -1,0 +1,23 @@
+{
+  "name": "mirrored_pdf",
+  "version": "1.0.0",
+  "description": "Tool to help teachers share a pdf document and keep students on the same page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremySkrdlant/MirroredPDF.git"
+  },
+  "keywords": [
+    "Education",
+    "PDF"
+  ],
+  "author": "Jeremy Skrdlant",
+  "license": "SEE LICENSE IN LICENSES.txt",
+  "bugs": {
+    "url": "https://github.com/JeremySkrdlant/MirroredPDF/issues"
+  },
+  "homepage": "https://github.com/JeremySkrdlant/MirroredPDF#readme"
+}
