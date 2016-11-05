@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/JeremySkrdlant/MirroredPDF/issues"
   },
-  "homepage": "https://github.com/JeremySkrdlant/MirroredPDF#readme"
+  "homepage": "https://github.com/JeremySkrdlant/MirroredPDF#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
